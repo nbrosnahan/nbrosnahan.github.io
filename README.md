@@ -1,1 +1,1 @@
-# nbrosnahan.github.io blog in ./blog
+# nbrosnahan.github.io blog in ./docs

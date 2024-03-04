@@ -22,7 +22,7 @@ title: nbrosnahan.github.io
 email: nbrosnahan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Nick Brosnahan's musings
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 domain: "nbrosnahan.github.io"
 url: "https://nbrosnahan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gophixit
